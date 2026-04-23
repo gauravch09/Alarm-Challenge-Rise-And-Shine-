@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "bathroom-sink",
+      "description": "A clean modern bathroom sink",
+      "imageUrl": "https://picsum.photos/seed/sink/600/400",
+      "imageHint": "bathroom sink"
+    },
+    {
+      "id": "kitchen-coffee",
+      "description": "Kitchen counter with a coffee machine",
+      "imageUrl": "https://picsum.photos/seed/coffee/600/400",
+      "imageHint": "kitchen counter"
+    },
+    {
+      "id": "shoes",
+      "description": "Running shoes near the door",
+      "imageUrl": "https://picsum.photos/seed/shoes/600/400",
+      "imageHint": "running shoes"
+    }
+  ]
+}
